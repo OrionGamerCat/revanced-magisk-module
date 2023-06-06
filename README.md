@@ -1,15 +1,12 @@
-#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
+#### ⚠️ This is my personal repo, forked from [here](https://github.com/j-hc/revanced-magisk-module). I won't provide support of any kind, please don't file issues here or upstream for my personalized changes.
 
 # ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![Build Modules](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+[![Build Modules](https://github.com/OrionGamerCat/revanced-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/OrionGamerCat/revanced-magisk-module/actions/workflows/build.yml)
+[![CI](https://github.com/OrionGamerCat/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/OrionGamerCat/revanced-magisk-module/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
-
-[**mindetach module**](https://github.com/j-hc/mindetach-magisk) in the releases section detaches YouTube and YouTube Music from Play Store and blocks their forced updates.
+Get the [latest CI release](https://github.com/OrionGamerCat/revanced-magisk-module/releases).
 
 ## Features
  * Support all present and future ReVanced and [ReVanced Extended](https://github.com/inotia00/revanced-patches) apps
